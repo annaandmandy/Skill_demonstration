@@ -62,3 +62,8 @@ Homework and Project from Deep Learning Course DS542
 1. https://github.com/annaandmandy/deep_learning_sp2025_homeworks
 2. https://github.com/annaandmandy/sp2025_midterm_challenge
 3. https://github.com/annaandmandy/25LPCVC_Track2_Segmentation_Sample_Solution
+
+## R
+1. Hackathon Project - simple data cleaning
+
+Repository: https://github.com/pp-monika/virtual-garden/blob/main/dataset_herb.R
