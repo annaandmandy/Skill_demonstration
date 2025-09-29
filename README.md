@@ -7,11 +7,13 @@ Projects to demonstrate my technical skills.
 Repository: https://github.com/sbel2/Citale
 
 Skill: Next.js, Supabase, SQL, Tailwind
+
 2. Personal Website https://annaandmandy.pythonanywhere.com/
 
 Repository: https://github.com/annaandmandy/personal_website_cs412
 
 Skill: Django, CSS, HTML
+
 3. Strick DS https://strickds.com/
 
 Skill: Flask, Bootstrap, HTML
@@ -29,6 +31,7 @@ Join Dataset by Beer Name Full
 Repository: https://github.com/annaandmandy/OOP-Projects
 
 Grade: A
+
 2. Database Coursework
 
 Repository: https://github.com/annaandmandy/CS660-Fall2024-pa/tree/main
@@ -55,6 +58,7 @@ Repository: https://github.com/annaandmandy/ds701_fa2024_assignments
 
 ## Deep Learning
 Homework and Project from Deep Learning Course DS542
+
 1. https://github.com/annaandmandy/deep_learning_sp2025_homeworks
 2. https://github.com/annaandmandy/sp2025_midterm_challenge
 3. https://github.com/annaandmandy/25LPCVC_Track2_Segmentation_Sample_Solution
