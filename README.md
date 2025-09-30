@@ -27,8 +27,8 @@ Civil Hack Hackathon
 
 ## C++
 1. Object-Oriented Programming
-  - Repository: https://github.com/annaandmandy/OOP-Projects
-  - Grade: A
+   - Repository: https://github.com/annaandmandy/OOP-Projects
+   - Grade: A
 
 2. Database Coursework
    - Repository: https://github.com/annaandmandy/CS660-Fall2024-pa/tree/main
@@ -56,4 +56,4 @@ Homework and Project from Deep Learning Course DS542
 
 ## R
 1. Hackathon Project - simple data cleaning
-  - Repository: https://github.com/pp-monika/virtual-garden/blob/main/dataset_herb.R
+   - Repository: https://github.com/pp-monika/virtual-garden/blob/main/dataset_herb.R
