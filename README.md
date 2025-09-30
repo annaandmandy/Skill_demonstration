@@ -7,7 +7,7 @@ Projects to demonstrate my technical skills.
    - Skill: Next.js, Supabase, SQL, Tailwind
 
 2. Personal Website https://annaandmandy.pythonanywhere.com/
-   - Repository: [https://github.com/annaandmandy/personal_website_cs412](https://github.com/annaandmandy/cs412_full_stack)
+   - Repository: https://github.com/annaandmandy/cs412_full_stack
    - Skill: Django, CSS, HTML
 
 3. Strick DS https://strickds.com/
