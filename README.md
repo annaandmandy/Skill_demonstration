@@ -6,7 +6,7 @@ Projects to demonstrate my technical skills.
    - Repository: https://github.com/sbel2/Citale
    - Skill: Next.js, Supabase, SQL, Tailwind
 
-2. My Personal Website
+2. My Personal Website https://anna-website-steel.vercel.app/
    - Repository: https://github.com/annaandmandy/anna_website
    - Skill: Javascript, Live2D, Vite, React, Bootstrap
 
