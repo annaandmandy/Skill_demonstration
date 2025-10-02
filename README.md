@@ -6,11 +6,15 @@ Projects to demonstrate my technical skills.
    - Repository: https://github.com/sbel2/Citale
    - Skill: Next.js, Supabase, SQL, Tailwind
 
-2. Personal Website https://annaandmandy.pythonanywhere.com/
+2. My Personal Website
+   - Repository: https://github.com/annaandmandy/anna_website
+   - Skill: Javascript, Live2D, Vite, React, Bootstrap
+
+3. CS412 https://annaandmandy.pythonanywhere.com/
    - Repository: https://github.com/annaandmandy/cs412_full_stack
    - Skill: Django, CSS, HTML
 
-3. Strick DS https://strickds.com/
+4. Strick DS https://strickds.com/
    - Skill: Flask, Bootstrap, HTML
 
 ## Power Bi Project - beer_review_and_rating
